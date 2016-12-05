@@ -1,0 +1,10 @@
+tbody {
+  display: block;
+  height: 40vh;
+  min-height: 200px;
+  overflow-Y: scroll;
+}
+tr {
+  display: block;
+  overflow: hidden;
+}

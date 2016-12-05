@@ -1,0 +1,14 @@
+.content_soal{text-align: justify; margin-left: 20px; font-size: 15px;}
+.judul_soal{text-align: justify; font-size: 17px;}
+.judul_soal2{text-align: justify; font-size: 17px; margin-left: 20px;}
+.judul_materi{font-family: 'Helvetica'; margin-left: 5px; font-size : 16px;}
+.title-material {height: 100px; background-color: #484848; color: #fff;margin-top: -20px; padding-top: 20px; text-align: center; font-weight: bold;}
+#img_fyp{width: 200px; height: 250px; border-radius: 2px 2px 2px 2px; box-shadow: 2px 2px 2px 2px;}
+#daftar_materi{text-align: justify; background-color: #d8d8d8; height: 50px; padding-top: 15px; margin-bottom: 20px;}
+#logo_bab{width: 200px; height: 300px; border-bottom: 5px solid #d8d8d8; border-top: 4px solid #d8d8d8; border-radius: 4px 40px 4px 40px;}
+#batas_bab{margin-bottom: 30px; margin-top: 30px; width: 95%; height: 2px; background-color: #d8d8d8; }
+#soal1_bio {margin-left: 200px;}
+#benar{background-color: #5cb85c; width: 40%; height: 25px;}
+#salah{background-color: #d9534f; width: 40%; height: 25px;}
+#solusi{background-color: #337ab7; width: 40%; height: 25px;}
+#score{background-color: #5bc0de; width: 60%; height: 55px; font-size: 35px; font-weight: bold;}
